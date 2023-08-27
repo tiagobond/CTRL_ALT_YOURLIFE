@@ -27,6 +27,7 @@ Espaço aberto para recrutadores realizar uma busca refinada e de qualidade com 
 **Front-end:** React, Redux, TailwindCSS
 
 **Back-end:** Node, Express
+
 ## Autores
 
 - [@PietroBucker](https://github.com/PietroBucker)
@@ -34,7 +35,6 @@ Espaço aberto para recrutadores realizar uma busca refinada e de qualidade com 
 - [@cleverson guandalin](https://github.com/CleverGnd)
 - [@fernandobettiolLopes](https://github.com/FernandoBettiolLopes)
 - [@princival2021](https://github.com/Princival2021)
-
 
 
 ## Stack utilizada
